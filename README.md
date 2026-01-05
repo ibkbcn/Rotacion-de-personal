@@ -62,7 +62,7 @@ Si no se interviene en el perfil crítico (**Madrid / 0-5 años**), el impacto f
 ---
 
 ## Oportunidades de Mejora
-Basado en los datos, se propone a la dirección la siguiente hoja de ruta:
+Basado en los datos, se propone la siguiente hoja de ruta:
 
 1.  **Programa "Semáforo Rojo" (Madrid):** Auditoría y limitación de horas extra para empleados hasta los 5 años de antigüedad.
 2.  **Estrategia "Golden Handcuffs":** Adelantar la asignación de Stock Options al primer año para perfiles de alto potencial en Madrid, reduciendo su riesgo de fuga del 22% al 8%.
