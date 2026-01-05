@@ -36,7 +36,7 @@ El empleado con mayor probabilidad de fuga es:
 * Antigüedad: 0 - 5 años
 * Condición: Realiza Horas Extra + Sin Stock Options.
 
-* **El Impacto:** Este segmento representa el **[X]%** del total de las pérdidas financieras por rotación.
+**El Impacto:** Este segmento representa el **[X]%** del total de las pérdidas financieras por rotación.
 ---
 
 ## Stack Tecnológico & Metodología
