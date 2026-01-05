@@ -48,8 +48,8 @@ Los datos globales confirman que las Stock Options actúan como una **herramient
 ## Oportunidades de Mejora
 Basado en los datos, se propone la siguiente hoja de ruta:
 
-1.  **Programa "Semáforo Rojo" (Madrid):** Auditoría y limitación de horas extra para empleados hasta los 5 años de antigüedad.
-2.  **Estrategia "Golden Handcuffs":** Adelantar la asignación de Stock Options al primer año para perfiles de alto potencial en Madrid, reduciendo su riesgo de fuga del 22% al 8%.
+1.  ** Iniciativa de Control de Carga Crítica (Sede Madrid): Implementación de auditorías preventivas y limitación de horas extra para la estabilización del talento en fase de consolidación (0-5 años).
+2.  **Programa de Aceleración de Incentivos (Equity Acceleration): Anticipación de la oferta de Stock Options para perfiles de alto potencial, orientada a reducir la probabilidad de fuga del 22% al 8% en el primer ciclo.
 
 ---
 *Contacto: [https://www.linkedin.com/in/ivanbetriu/ / ivan.betriu@gmail.com]*
