@@ -57,7 +57,7 @@ Según estudios de mercado, el coste directo de reemplazo de un empleado equival
 ---
 
 ## Stack Tecnológico & Metodología
-* **Herramientas:** Power BI (DAX, Modelado), Python (Pandas, Matplotlib para validación estadística).
+* **Herramientas:** Power BI (Power Query para ETL, DAX para análisis, Modelado de datos).
 * **Técnicas:**
     * ETL: Limpieza de datos y clasificación de variables.
     * Feature Engineering: Creación de columnas calculadas para segmentación (ej. *Status Stock*).
