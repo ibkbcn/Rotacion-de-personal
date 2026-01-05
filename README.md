@@ -1,7 +1,7 @@
 # People Analytics: Fuga y Retención de Talento
 
 ## Resumen Ejecutivo
-Este proyecto analiza la rotación de empleados en una compañía farmacéutica con sedes en Madrid, Barcelona y Bilbao. El objetivo principal fue identificar las causas raíz de las dimisiones y **cuantificar el impacto financiero de la pérdida de talento en los colectivos críticos.**
+Este proyecto analiza la rotación de empleados en una compañía farmacéutica con sedes en Madrid, Barcelona y Bilbao. El objetivo principal fue identificar las causas raíz de las dimisiones y **cuantificar el riesgo de fuga de talento en los colectivos críticos.**
 
 El análisis reveló que la **crisis de rotación se concentra geográficamente en la sede de Madrid**, donde la cultura local de sobrecarga laboral (horas extra) colisiona con una política corporativa de incentivos (Stock Options) insuficiente para retener al talento en este mercado, afectando tanto a juniors como a perfiles consolidados.
 
@@ -21,9 +21,9 @@ El análisis reveló que la **crisis de rotación se concentra geográficamente 
 A diferencia de Barcelona y Bilbao, que logran estabilizar a su plantilla tras el segundo año, la sede de Madrid sufre una fuga continua que abarca los primeros 5 años.
 
 * **La Anomalía:** Madrid pierde al **33%** de los perfiles de entrada (0-2 años) y mantiene una tasa crítica del **17%** en perfiles consolidados (2-5 años), duplicando a otras sedes.
-* **Las Causas (El Doble Golpe):**
-    1.  ** Burnout Temprano:** El **60%** de las dimisiones están vinculadas a horas extra, creando un fuerte deseo de salida.
-    2.  ** Falta de Arraigo:** La política de incentivos no actúa como barrera. **En Madrid, casi 2 de cada 3 empleados que abandonan (66%) no poseen Stock Options**, lo que elimina el coste de oportunidad por irse.
+* **Factores Determinantes:**
+      ** Burnout Temprano:** El **60%** de las dimisiones están vinculadas a horas extra, creando un fuerte deseo de salida.
+      ** Falta de Arraigo:** La política de incentivos no actúa como barrera. **En Madrid, casi 2 de cada 3 empleados que abandonan (66%) no poseen Stock Options**, lo que elimina el coste de oportunidad por irse.
 
 ### 2. Validación: El Poder de los Incentivos
 Los datos globales confirman que las Stock Options actúan como una **herramienta de prevención eficaz**, reduciendo drásticamente el riesgo de fuga.
@@ -33,23 +33,6 @@ Los datos globales confirman que las Stock Options actúan como una **herramient
 
 > ** La Oportunidad en Madrid:**
 > Actualmente, la penetración de Stock Options en Madrid es idéntica a la de sedes con bajo riesgo. Dado que Madrid sufre una mayor presión laboral, **la herramienta está infrautilizada para este contexto**. No se usa el incentivo para fidelizar frente a la alta exigencia, dejando al talento expuesto a la competencia.
-
----
-
-## 3. Caso de Negocio: Rentabilidad de la Inversión
-Según estudios de mercado, el coste directo de reemplazo de un empleado equivale a entre **6 y 9 meses de salario**. Utilizando una estimación conservadora (6 meses) para el perfil en riesgo, el impacto financiero es el siguiente:
-
-| Concepto | Impacto Financiero | Descripción |
-| :--- | :--- | :--- |
-| **Coste de Rotación** | **-465.000 € / año** | Coste estimado de reemplazar a los 15 empleados clave que se pierden anualmente (base 6 meses salario). |
-| **Inversión (Solución)** | **-250.000 € / año** | Presupuesto para refuerzos de plantilla (reducir horas extra) y plan de Stock Options. |
-| **AHORRO NETO ESTIMADO** | **+215.000 € / año** | **Beneficio directo anual tras descontar la inversión.** |
-
-> **🔎 Desglose de la Inversión:**
-> * **Refuerzo Operativo (150k€):** Contratación de 5 Juniors para diluir la carga de trabajo y eliminar horas extra.
-> * **Plan de Incentivos (100k€):** Asignación de Stock Options (valor medio ~8.3k€) para blindar a los **12 Top Performers** más críticos de la sede.
-
-> **Conclusión Financiera:** Incluso en un escenario conservador (calculando solo costes directos de reemplazo), la inversión es rentable. Por cada **1€ invertido**, la empresa deja de perder **1,86€**, protegiendo la cuenta de resultados.
 
 ---
 
