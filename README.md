@@ -21,9 +21,8 @@ El análisis reveló que la **crisis de rotación se concentra geográficamente 
 A diferencia de Barcelona y Bilbao, que logran estabilizar a su plantilla tras el segundo año, la sede de Madrid sufre una fuga continua que abarca los primeros 5 años.
 
 * **La Anomalía:** Madrid pierde al **33%** de los perfiles de entrada (0-2 años) y mantiene una tasa crítica del **17%** en perfiles consolidados (2-5 años), duplicando a otras sedes.
-* **Factores Determinantes:**
-* 
-      ** Burnout Temprano:** El **60%** de las dimisiones están vinculadas a horas extra, creando un fuerte deseo de salida.
+* **Factores Determinantes:**  
+      ** Burnout Temprano:** El **60%** de las dimisiones están vinculadas a horas extra, creando un fuerte deseo de salida.  
       ** Falta de Arraigo:** La política de incentivos no actúa como barrera. **En Madrid, casi 2 de cada 3 empleados que abandonan (66%) no poseen Stock Options**, lo que elimina el coste de oportunidad por irse.
 
 ### 2. Validación: El Poder de los Incentivos
