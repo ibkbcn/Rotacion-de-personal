@@ -13,6 +13,9 @@ El análisis reveló que la **crisis de rotación se concentra geográficamente 
 ![Dashboard General](img/dashboard_overview.png)
 *(Asegúrate de subir la imagen a una carpeta 'img' o cambiar esta ruta)*
 
+<img width="1502" height="836" alt="image" src="https://github.com/user-attachments/assets/853e60a1-6f16-4440-abe7-11572834d304" />
+
+
 ---
 
 ## Hallazgos Clave (Key Insights)
