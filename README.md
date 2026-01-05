@@ -68,4 +68,4 @@ Basado en los datos, se propone a la dirección la siguiente hoja de ruta:
 2.  **Estrategia "Golden Handcuffs":** Adelantar la asignación de Stock Options al primer año para perfiles de alto potencial en Madrid, reduciendo su riesgo de fuga del 22% al 8%.
 
 ---
-*Contacto: [Tu LinkedIn / ivan.betriu@gmail.com]*
+*Contacto: [https://www.linkedin.com/in/ivanbetriu/ / ivan.betriu@gmail.com]*
