@@ -15,7 +15,7 @@ El análisis reveló que la **crisis de rotación se concentra geográficamente 
 
 ---
 
-## Hallazgos Clave (Key Insights)
+## Hallazgos Clave 
 
 ### 1. El "Efecto Madrid": Fallo Estructural
 A diferencia de Barcelona y Bilbao, que logran estabilizar a su plantilla tras el segundo año, la sede de Madrid sufre una fuga continua que abarca los primeros 5 años.
