@@ -18,7 +18,7 @@ El análisis reveló que la **crisis de rotación se concentra geográficamente 
 ## Hallazgos Clave (Key Insights)
 
 ### 1. El "Efecto Madrid"
-Mientras que Barcelona y Bilbao mantienen tasas de rotación estables, **Madrid presenta una tasa crítica del 33% en perfiles junior**.
+Mientras que Barcelona y Bilbao mantienen tasas de rotación estables, **Madrid presenta una tasa crítica del 33% en perfiles junior (0-2 años)**.
 * **La Causa:** No es la antigüedad, es el "burnout". El **60%** de las personas que dimiten en Madrid realizaban horas extra habitualmente (vs solo 24% de los que se quedan).
 
 ### 2. La Brecha de los Incentivos (Stock Options)
@@ -51,8 +51,8 @@ El empleado con mayor probabilidad de fuga es:
 ## Recomendaciones Estratégicas
 Basado en los datos, se propuso al negocio un plan de acción de 3 puntos:
 
-1.  **Programa "Semáforo Rojo" en Madrid:** Auditoría y limitación de horas extra para empleados con <2 años de antigüedad.
-2.  **Estrategia "Golden Handcuffs":** Adelantar la asignación de Stock Options al primer año para perfiles "Solteros/Junior" de alto potencial en Madrid, reduciendo su riesgo de fuga del 22% al 8%.
+1.  **Programa "Semáforo Rojo" en Madrid:** Auditoría y limitación de horas extra para empleados hasta los 5 años de antigüedad.
+2.  **Estrategia "Golden Handcuffs":** Adelantar la asignación de Stock Options al primer año para perfiles Junior de alto potencial en Madrid, reduciendo su riesgo de fuga del 22% al 8%.
 3.  **Recálculo de Costes:** Ajuste del KPI de coste de rotación para reflejar el impacto real en el P&L y justificar la inversión en retención.
 
 ---
