@@ -1,7 +1,7 @@
 # People Analytics: Estrategia de Retención de Talento & Diagnóstico de Fuga
 
 ## Resumen Ejecutivo
-Este proyecto analiza la rotación de empleados en una compañía farmacéutica con sedes en Madrid, Barcelona y Bilbao. El objetivo principal fue identificar las causas raíz de las dimisiones y cuantificar su impacto financiero anual, estimado en un **coste real de rotación de 2.9M€**.
+Este proyecto analiza la rotación de empleados en una compañía farmacéutica con sedes en Madrid, Barcelona y Bilbao. El objetivo principal fue identificar las causas raíz de las dimisiones y cuantificar su impacto financiero anual, estimado en un **coste real de rotación de 1.2M€**.
 
 El análisis reveló que la **crisis de rotación se concentra geográficamente en la sede de Madrid**, donde la cultura local de sobrecarga laboral (horas extra) colisiona con una política corporativa de incentivos (Stock Options) insuficiente para retener al talento en este mercado, afectando tanto a juniors como a perfiles consolidados.
 
