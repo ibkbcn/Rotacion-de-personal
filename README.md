@@ -48,6 +48,10 @@ Según estudios de mercado, el coste directo de reemplazo de un empleado equival
 | **Inversión (Solución)** | **-250.000 € / año** | Presupuesto para refuerzos de plantilla (reducir horas extra) y plan de Stock Options. |
 | **AHORRO NETO ESTIMADO** | **+215.000 € / año** | **Beneficio directo anual tras descontar la inversión.** |
 
+> **🔎 Desglose de la Inversión:**
+> * **Refuerzo Operativo (150k€):** Contratación de 5 Juniors para diluir la carga de trabajo y eliminar horas extra.
+> * **Plan de Incentivos (100k€):** Asignación de Stock Options (valor medio ~8.3k€) para blindar a los **12 Top Performers** más críticos de la sede.
+
 > **Conclusión Financiera:** Incluso en un escenario conservador (calculando solo costes directos de reemplazo), la inversión es rentable. Por cada **1€ invertido**, la empresa deja de perder **1,86€**, protegiendo la cuenta de resultados.
 
 ---
