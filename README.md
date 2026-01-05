@@ -8,10 +8,6 @@ El análisis reveló que la **crisis de rotación se concentra geográficamente 
 ---
 
 ## Dashboard Overview
-*(Vista general del cuadro de mando interactivo)*
-
-![Dashboard General](img/dashboard_overview.png)
-*(Asegúrate de subir la imagen a una carpeta 'img' o cambiar esta ruta)*
 
 <img width="1939" height="1090" alt="image" src="https://github.com/user-attachments/assets/f098ea88-0b62-47e5-a9a1-0e28cadffd9b" />
 
@@ -37,9 +33,6 @@ Los datos globales confirman que las Stock Options actúan como una **herramient
 
 > ** La Oportunidad en Madrid:**
 > Actualmente, la penetración de Stock Options en Madrid es idéntica a la de sedes con bajo riesgo. Dado que Madrid sufre una mayor presión laboral, **la herramienta está infrautilizada para este contexto**. No se usa el incentivo para fidelizar frente a la alta exigencia, dejando al talento expuesto a la competencia.
-
-*(Espacio para gráfico comparativo opcional)*
-`![Gráfico Impacto Incentivos](img/chart_incentivos.png)`
 
 ---
 
