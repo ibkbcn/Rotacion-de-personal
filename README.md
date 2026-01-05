@@ -40,7 +40,7 @@ Los datos globales confirman que las Stock Options actúan como una **herramient
 ---
 
 ## 3. Caso de Negocio: Rentabilidad de la Inversión
-Según estudios de mercado, el coste de reemplazo de un empleado equivale a entre **6 y 9 meses de salario**. Utilizando una estimación conservadora (6 meses) para el perfil en riesgo, el impacto financiero es el siguiente:
+Según estudios de mercado, el coste directo de reemplazo de un empleado equivale a entre **6 y 9 meses de salario**. Utilizando una estimación conservadora (6 meses) para el perfil en riesgo, el impacto financiero es el siguiente:
 
 | Concepto | Impacto Financiero | Descripción |
 | :--- | :--- | :--- |
