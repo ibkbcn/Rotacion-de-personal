@@ -32,7 +32,7 @@ Los datos globales confirman que las Stock Options actúan como una **herramient
 * **Tasa de Dimisión CON Stock Options:** 🟢 **8,7%** (Riesgo Bajo)
 
 > ** La Oportunidad en Madrid:**
-> Actualmente, la penetración de Stock Options en Madrid es idéntica a la de sedes con bajo riesgo. Dado que Madrid sufre una mayor presión laboral, **la herramienta está infrautilizada para este contexto**. No se usa el incentivo para compensar el "Burnout", dejando al talento expuesto a la competencia.
+> Actualmente, la penetración de Stock Options en Madrid es idéntica a la de sedes con bajo riesgo. Dado que Madrid sufre una mayor presión laboral, **la herramienta está infrautilizada para este contexto**. No se usa el incentivo para fidelizar frente a la alta exigencia, dejando al talento expuesto a la competencia.
 
 *(Espacio para gráfico comparativo opcional)*
 `![Gráfico Impacto Incentivos](img/chart_incentivos.png)`
