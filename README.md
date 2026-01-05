@@ -1,4 +1,4 @@
-# People Analytics: Estrategia de Retención de Talento & Diagnóstico de Fuga
+# People Analytics: Fuga y Retención de Talento
 
 ## Resumen Ejecutivo
 Este proyecto analiza la rotación de empleados en una compañía farmacéutica con sedes en Madrid, Barcelona y Bilbao. El objetivo principal fue identificar las causas raíz de las dimisiones y **cuantificar el impacto financiero de la pérdida de talento en los colectivos críticos.**
