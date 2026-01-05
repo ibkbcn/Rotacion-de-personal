@@ -39,16 +39,16 @@ Los datos globales confirman que las Stock Options actúan como una **herramient
 
 ---
 
-## 3. Caso de Negocio: El Coste de la Inacción
-Si no se interviene en el perfil crítico (**Madrid / 0-5 años**), el impacto financiero se mantendrá. A continuación, el ROI estimado de la solución propuesta:
+## 3. Caso de Negocio: Rentabilidad de la Inversión
+Según estudios de mercado, el coste de reemplazo de un empleado equivale a entre **6 y 9 meses de salario**. Utilizando una estimación conservadora (6 meses) para el perfil en riesgo, el impacto financiero es el siguiente:
 
 | Concepto | Impacto Financiero | Descripción |
 | :--- | :--- | :--- |
-| **Coste Actual** | **-930.000 € / año** | Pérdida anual por rotación del colectivo objetivo (Reemplazo + Productividad). |
-| **Inversión** | **-250.000 € / año** | Coste estimado de refuerzos (horas extra) y plan de Stock Options. |
-| **BENEFICIO NETO** | **+680.000 € / año** | **Ahorro real capturado al frenar la fuga de talento.** |
+| **Coste de Rotación** | **-465.000 € / año** | Coste estimado de reemplazar a los 15 empleados clave que se pierden anualmente (base 6 meses salario). |
+| **Inversión (Solución)** | **-250.000 € / año** | Presupuesto para refuerzos de plantilla (reducir horas extra) y plan de Stock Options. |
+| **AHORRO NETO ESTIMADO** | **+215.000 € / año** | **Beneficio directo anual tras descontar la inversión.** |
 
-> **Conclusión Financiera:** Por cada euro invertido en retención en Madrid, la compañía recupera **3,7€** en costes de rotación evitados.
+> **Conclusión Financiera:** Incluso en un escenario conservador (calculando solo costes directos de reemplazo), la inversión es rentable. Por cada **1€ invertido**, la empresa deja de perder **1,86€**, protegiendo la cuenta de resultados.
 
 ---
 
