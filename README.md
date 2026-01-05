@@ -33,10 +33,10 @@ Se descubrió una correlación directa entre la posesión de acciones y la reten
 ### 3. El Perfil de Riesgo
 El empleado con mayor probabilidad de fuga es:
 * Sede: Madrid
-* Antigüedad: 2 - 5 años
-* Estado Civil: Soltero
+* Antigüedad: 0 - 5 años
 * Condición: Realiza Horas Extra + Sin Stock Options.
 
+* **El Impacto:** Este segmento representa el **[X]%** del total de las pérdidas financieras por rotación.
 ---
 
 ## Stack Tecnológico & Metodología
