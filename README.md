@@ -23,7 +23,7 @@ A diferencia de Barcelona y Bilbao, que logran la estabilización de la plantill
     * **Falta de Fidelización:** En Madrid, el **66%** de los empleados que abandonan la compañía no poseen *Stock Options*, eliminando el coste de oportunidad por la salida.
 
 ### 2. Validación: El Poder de los Incentivos
-Los datos confirman que las *Stock Options* actúan como una **herramienta de prevención eficaz**, reduciendo drásticamente el riesgo de abandono.
+Los datos confirman que las *Stock Options* actúan como una **herramienta de prevención eficaz**, reduciendo drásticamente el riesgo de dimisión.
 
 * **Tasa de Dimisión SIN Stock Options:** 🔴 **22,3%** (Riesgo Alto)
 * **Tasa de Dimisión CON Stock Options:** 🟢 **8,7%** (Riesgo Bajo)
