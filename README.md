@@ -11,6 +11,9 @@ El estudio revela que la **crisis de rotación se concentra geográficamente en 
 
 <img width="1939" height="1090" alt="Dashboard de People Analytics" src="https://github.com/user-attachments/assets/f098ea88-0b62-47e5-a9a1-0e28cadffd9b" />
 
+
+<img width="1058" height="588" alt="image" src="https://github.com/user-attachments/assets/7d4ca4a6-ce48-4e8a-beba-0373f324f09f" />
+
 ---
 
 ## Hallazgos Clave 
