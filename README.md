@@ -49,4 +49,4 @@ Basado en las evidencias extraídas, se propone la siguiente hoja de ruta para l
 2.  **Programa de Aceleración de Incentivos (Equity Acceleration):** Anticipación de la oferta de *Stock Options* para perfiles de alto potencial, orientada a reducir la probabilidad de fuga del **22% al 8% en el primer ciclo (0-2 años)**.
 
 ---
-*Contacto: [LinkedIn](https://www.linkedin.com/in/ivanbetriu/) / ivan.betriu@gmail.com*
+*Contacto: [LinkedIn](https://www.linkedin.com/in/ivanbetriu/) / [Gmail](ivan.betriu@gmail.com)*
