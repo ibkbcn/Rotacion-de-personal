@@ -29,12 +29,12 @@ Los datos confirman que las *Stock Options* actúan como una **herramienta de pr
 * **Tasa de Dimisión CON Stock Options:** 🟢 **8,7%** (Riesgo Bajo)
 
 > **La Oportunidad en Madrid:**
-> La penetración de *Stock Options* en Madrid es idéntica a la de sedes con bajo riesgo. Dado que Madrid sufre una mayor presión laboral, la herramienta se encuentra infrautilizada; no se emplea el incentivo para fidelizar frente a la alta exigencia, dejando al talento expuesto a la competencia.
+> El uso de *Stock Options* en Madrid es idéntica a la del resto de sedes. Dado que Madrid sufre una mayor presión laboral, se podría apostar por aumentar la proporción de empleados que obtengan estas ventajas para compensar la alta exigencia de esas oficinas.
 
 ---
 
 ## Stack Tecnológico & Metodología
-* **Herramientas:** Power BI (Power Query para ETL, DAX para análisis, Modelado de datos).
+* **Herramientas:** Power BI (Power Query para ETL, DAX para análisis y modelado de datos).
 * **Técnicas Aplicadas:**
     * **ETL:** Limpieza de datos y normalización de variables de RR.HH.
     * **Feature Engineering:** Creación de indicadores segmentados (ej. *Status Stock*).
