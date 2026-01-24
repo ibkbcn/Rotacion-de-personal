@@ -20,7 +20,7 @@ A diferencia de Barcelona y Bilbao, que logran la estabilización de la plantill
 * **La Anomalía:** Madrid pierde al **33%** de los perfiles de entrada (0-2 años) y mantiene una tasa crítica del **17%** en perfiles consolidados (2-5 años), duplicando las métricas de otras sedes.
 * **Factores Determinantes:**
     * **Burnout Temprano:** El **60%** de las dimisiones están vinculadas directamente a la realización de horas extra.
-    * **Falta de Arraigo:** En Madrid, el **66%** de los empleados que abandonan la compañía no poseen *Stock Options*, eliminando el coste de oportunidad por la salida.
+    * **Falta de Fidelización:** En Madrid, el **66%** de los empleados que abandonan la compañía no poseen *Stock Options*, eliminando el coste de oportunidad por la salida.
 
 ### 2. Validación: El Poder de los Incentivos
 Los datos confirman que las *Stock Options* actúan como una **herramienta de prevención eficaz**, reduciendo drásticamente el riesgo de deserción.
