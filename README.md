@@ -37,7 +37,7 @@ Los datos confirman que las *Stock Options* actúan como una **herramienta de pr
 * **Herramientas:** Power BI (Power Query para ETL, DAX para análisis y modelado de datos).
 * **Técnicas Aplicadas:**
     * **ETL:** Limpieza de datos y normalización de variables de RR.HH.
-    * **Feature Engineering:** Creación de indicadores segmentados (ej. *Status Stock*).
+    * **Feature Engineering:** Creación de indicadores calculados (ej. *Status Stock*).
     * **Análisis Multidimensional:** Comparativa por sede, antigüedad y niveles de compensación.
 
 ---
@@ -45,7 +45,7 @@ Los datos confirman que las *Stock Options* actúan como una **herramienta de pr
 ## Hoja de Ruta Estratégica
 Basado en las evidencias extraídas, se propone la siguiente hoja de ruta para la retención del talento:
 
-1.  **Iniciativa de Control de Carga Crítica (Sede Madrid):** Implementación de auditorías preventivas y limitación de horas extra para la **estabilización del talento en fase de consolidación (0-5 años)**.
+1.  **Iniciativa de Control de Horas Extra (Sede Madrid):** Implementación de auditorías preventivas y limitación de horas extra para la **estabilización del talento en fase de consolidación (0-5 años)**.
 2.  **Programa de Aceleración de Incentivos (Equity Acceleration):** Anticipación de la oferta de *Stock Options* para perfiles de alto potencial, orientada a reducir la probabilidad de fuga del **22% al 8% en el primer ciclo (0-2 años)**.
 
 ---
