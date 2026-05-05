@@ -1,7 +1,7 @@
 # People Analytics: Fuga y Retención de Talento
 
 ## Resumen Ejecutivo
-Análisis de la rotación de empleados en una compañía farmacéutica con sedes en Madrid, Barcelona y Bilbao. El objetivo principal reside en la identificación de las causas raíz de las dimisiones y en la **cuantificación del riesgo de fuga de talento en los colectivos críticos.**
+Análisis de la rotación de empleados en una compañía farmacéutica con sedes en Madrid, Barcelona y Bilbao. El objetivo principal reside en la identificación de las causas raíz de la alta rotación y en la **cuantificación del riesgo de fuga de talento en los colectivos críticos.**
 
 El estudio revela que la **crisis de rotación se concentra geográficamente en la sede de Madrid**, donde la sobrecarga laboral (horas extra) colisiona con una política corporativa de incentivos (*Stock Options*) insuficiente para retener al talento, afectando tanto a perfiles junior como consolidados.
 
