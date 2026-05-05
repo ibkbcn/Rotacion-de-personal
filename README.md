@@ -7,7 +7,7 @@ El estudio revela que la **crisis de rotación se concentra geográficamente en 
 
 ---
 
-## Dashboard Overview
+## Company Overview
 <img width="1058" height="588" alt="image" src="https://github.com/user-attachments/assets/7d4ca4a6-ce48-4e8a-beba-0373f324f09f" />
 
 ---
